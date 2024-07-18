@@ -21,6 +21,7 @@
   - [Quest 3 Mixed Reality](#quest-3-mixed-reality)
     - [Using Meta XR SDK](#using-meta-xr-sdk)
   - [Use XR Interaction Toolkit](#use-xr-interaction-toolkit)
+  - [Industry Experts and Companies](#industry-experts-and-companies)
   - [Contribute](#contribute)
 
 ## YouTube Tutorials
@@ -214,6 +215,17 @@
 - **Anchor**:
   - Add AR Anchor Manager to XR Rig.
   - Add AR Anchor to the prefab.
+
+## Industry Experts and Companies
+
+Thanks to Robert Scoble for his valuable contribution. Here are the lists of VR/AR experts and companies curated by him:
+
+- **VR/AR Experts**:
+  - [List 1 (550 people)](https://x.com/i/lists/733162578625449985)
+  - [List 2](https://x.com/i/lists/1786062895668974066)
+
+- **Companies in XR**:
+  - [Companies List](https://x.com/i/lists/733277650085511168)
 
 ## Contribute
 
