@@ -31,6 +31,10 @@
 - [.NET framework explained](https://www.youtube.com/watch?v=bEfBfBQq7EE) - Overview of the .NET framework, useful for understanding Unity's backend.
 - [Valem - VR Dev for Beginners](https://www.youtube.com/watch?v=i3DbJwy0R6E) - Beginner-friendly tutorials on VR development using Unity.
 - [Valem's Let's make a VR game](https://www.youtube.com/watch?v=QCvqimfrMZw&list=PLpEoiloH-4eM-fykn_3_QcJ-A_MIJF5B9&index=1) - Step-by-step guide to creating VR games from scratch.
+- [Dilmer Valecillos's YT Channel](https://www.youtube.com/@dilmerv)
+- [Justin P Barnett's YT Channel](https://www.youtube.com/@JustinPBarnett)
+- [Samyam's YT Channel](https://www.youtube.com/@samyam)
+- [Brackey's YT Channel (Gamedev GOAT)](https://www.youtube.com/@Brackeys)
 - [GeoHot on AI Girlfriend](https://www.youtube.com/watch?v=RA7fivgW8TM) - Exploration of AI integration in mixed reality applications.
 
 ## Websites
