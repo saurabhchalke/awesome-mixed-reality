@@ -64,6 +64,8 @@
 - **OVR Metrics Tool** - [Oculus VR metrics analysis tool](https://developer.oculus.com/documentation/tools/tools-ovrmetricstool/).
 - **ovrgpuprofiler** - [GPU profiling tool for Oculus applications](https://developer.oculus.com/blog/gpu-profiling-with-oculus-tools/).
 - **VrApi Logcat** - [Logging tool for VR applications, useful for debugging](https://developer.oculus.com/documentation/native/android/logcat/).
+- **XRGizmos** - [Gizmos for XR development in Unity](https://github.com/darktable/XRGizmos).
+- **Graphy** - [Performance monitoring tool for Unity applications](https://assetstore.unity.com/packages/tools/gui/graphy-ultimate-stats-monitor-debugger-105778).
 
 ## Packages & Services
 
