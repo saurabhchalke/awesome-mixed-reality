@@ -37,6 +37,7 @@
 - [Samyam's YT Channel](https://www.youtube.com/@samyam)
 - [Brackey's YT Channel (Gamedev GOAT)](https://www.youtube.com/@Brackeys)
 - [Black Whale Studio YT Channel](https://www.youtube.com/@blackwhalestudio)
+- [Procedural Animation](https://www.youtube.com/watch?v=qlfh_rv6khY)
 - [GeoHot on AI Girlfriend](https://www.youtube.com/watch?v=RA7fivgW8TM) - Exploration of AI integration in mixed reality applications.
 
 ## Websites
