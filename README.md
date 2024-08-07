@@ -133,6 +133,8 @@
 - **Vour** - [VR asset creation tool](https://vour.co/).
 - **SRDebugger** - [Debugging tool for Unity applications](https://assetstore.unity.com/packages/tools/gui/srdebugger-console-in-game-debug-tools-on-device-visibility-38153).
 - **Stable Fast 3D** - [Rapid 3D Asset Generation From Single Images](https://platform.stability.ai/docs/api-reference#tag/Control/paths/~1v2beta~1stable-image~1control~1style/post)
+- **Mesh Effects** - [Mesh effects tool for Unity](https://assetstore.unity.com/packages/vfx/particles/spells/mesh-effects-67803).
+- **Pro Sound Collection** - [Sound effects collection for Unity](https://assetstore.unity.com/packages/audio/sound-fx/pro-sound-collection-50235).
 
 ## GitHub Projects
 
