@@ -60,6 +60,7 @@
 
 ## Debugging
 
+- **Immersive Debugger** - [Immersive Debugger inside the headset by Meta SDK](https://developer.oculus.com/documentation/unity/immersivedebugger-overview/)
 - **RenderDoc for Oculus** - [Frame capture and analysis tool for Oculus applications](https://developer.oculus.com/documentation/native/pc/dg-renderdoc-tutorial/).
 - **Unity Profiler** - [Built-in performance profiling tool for Unity applications](https://docs.unity3d.com/Manual/Profiler.html).
 - **OVR Metrics Tool** - [Oculus VR metrics analysis tool](https://developer.oculus.com/documentation/tools/tools-ovrmetricstool/).
