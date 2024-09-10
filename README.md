@@ -120,6 +120,7 @@
 - [CGTrader](https://www.cgtrader.com/) - 3D model marketplace.
 - **Pro builder** - [3D modeling tool for Unity](https://unity.com/features/probuilder).
 - **Mixamo** - [Tool for 3D character animations](https://www.mixamo.com/).
+- [Poliigon](https://www.poliigon.com/search/free) - 3D Assets and Textures
 - [Kenney.nl](https://kenney.nl/) - Free game assets.
 - [Ready Player Me](https://readyplayer.me/) - Avatar creation tool.
 - **Character Creator** - [Tool for creating detailed 3D characters](https://www.reallusion.com/character-creator/default.html).
