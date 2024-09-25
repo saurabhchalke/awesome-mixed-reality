@@ -84,6 +84,7 @@
 
 - **Meta XR all-in-one SDK** - [Comprehensive SDK for developing Meta XR applications](https://developer.oculus.com/downloads/package/oculus-integration/).
 - **Meta Building Blocks** - [Pre-built components for XR development](https://developer.oculus.com/documentation/unity/unity-prefabs-building-blocks/).
+- **Meta Spatial SDK** - [Native Android Framework for Meta XR](https://developers.meta.com/horizon/develop/spatial-sdk)
 - **MR Utility Kit** - [Utility kit for mixed reality development](https://github.com/microsoft/MixedRealityToolkit-Unity).
 - **SteamVR** - [SDK for developing VR applications for Steam](https://store.steampowered.com/app/250820/SteamVR/).
 - **Unity XR Interaction Toolkit** - [Toolkit for creating XR interactions in Unity](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.0/manual/index.html).
