@@ -58,6 +58,7 @@
 - **Mattercraft** - [Mixed reality development tools](https://mattercraft.io/).
 - **Spark AR Studio** - [Tool for creating augmented reality experiences](https://sparkar.facebook.com/ar-studio/).
 - [Meta tools](https://developer.oculus.com/downloads/unity/) - A suite of tools provided by Meta for XR development.
+- [Lens Studio - Developing AR apps on Snap platform](https://ar.snap.com/lens-studio)
 
 ## Debugging
 
@@ -165,6 +166,7 @@
 - **Magic Leap 2** - [Mixed reality headset](https://www.magicleap.com/magic-leap-2).
 - **Tilt Five AR Glasses** - [Augmented reality glasses](https://www.tiltfive.com/).
 - **Logitech MX Ink pen** - [MR Stylus](https://www.logitech.com/en-us/products/vr/mx-ink.html).
+- **
 
 ## Books
 
