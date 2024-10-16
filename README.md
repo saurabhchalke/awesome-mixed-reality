@@ -30,6 +30,7 @@
 - [Unity Fireship](https://www.youtube.com/watch?v=iqlH4okiQqg) - Advanced Unity topics, covering various aspects of Unity development.
 - [C# Fireship](https://www.youtube.com/watch?v=ravLFzIguCM) - In-depth guide to C# programming, essential for Unity developers.
 - [.NET framework explained](https://www.youtube.com/watch?v=bEfBfBQq7EE) - Overview of the .NET framework, useful for understanding Unity's backend.
+- [Valem - How to Make a XR Game in Unity](https://www.youtube.com/watch?v=CcJ4yMTzXUM) - Valem's MR tutorial with the latest Meta XR All-In-One SDK.
 - [Valem - VR Dev for Beginners](https://www.youtube.com/watch?v=i3DbJwy0R6E) - Beginner-friendly tutorials on VR development using Unity.
 - [Valem's Let's make a VR game](https://www.youtube.com/watch?v=QCvqimfrMZw&list=PLpEoiloH-4eM-fykn_3_QcJ-A_MIJF5B9&index=1) - Step-by-step guide to creating VR games from scratch.
 - [Dilmer Valecillos's YT Channel](https://www.youtube.com/@dilmerv)
