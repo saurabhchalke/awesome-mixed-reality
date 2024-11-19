@@ -166,7 +166,7 @@
 - **Magic Leap 2** - [Mixed reality headset](https://www.magicleap.com/magic-leap-2).
 - **Tilt Five AR Glasses** - [Augmented reality glasses](https://www.tiltfive.com/).
 - **Logitech MX Ink pen** - [MR Stylus](https://www.logitech.com/en-us/products/vr/mx-ink.html).
-- **
+- **Zapbox** - [iPhone as a MR headset device](https://www.zappar.com/zapbox/)
 
 ## Books
 
