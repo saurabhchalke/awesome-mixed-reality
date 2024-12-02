@@ -155,6 +155,7 @@
 - [VR Beginner The Escape Room](https://assetstore.unity.com/packages/templates/tutorials/vr-beginner-the-escape-room-163264) - VR beginner tutorial project.
 - [Scape Scraper](https://www.youtube.com/watch?v=QCvqimfrMZw&list=PLpEoiloH-4eM-fykn_3_QcJ-A_MIJF5B9&index=1&t=0s) - VR game development series.
 - [Open Brush](https://github.com/icosa-foundation/open-brush) - Open-source VR painting application.
+- [Tilt Brush](https://github.com/googlevr/tilt-brush) - The OG Painting App in VR created by Google in 2016 (not being maintained anymore though, but continued in spirit by Open Brush)
 - [VR Alchemy Lab](https://github.com/Unity-Technologies/VRAlchemyLab) - VR interaction sample projects.
 - [Move Fast](https://github.com/Unity-Technologies/mr-example-meta-openxr) - Mixed reality interaction sample project.
 - [Whisperer](https://github.com/oculus-samples/voicesdk-samples-whisperer) - Voice SDK sample projects.
