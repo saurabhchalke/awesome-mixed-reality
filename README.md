@@ -22,7 +22,9 @@
     - [Using Meta XR SDK](#using-meta-xr-sdk)
   - [Use XR Interaction Toolkit](#use-xr-interaction-toolkit)
   - [Industry Experts and Companies](#industry-experts-and-companies)
+  - [Other Awesome XR Lists](#other-awesome-xr-lists)
   - [Contribute](#contribute)
+  - [Author](#author)
 
 ## YouTube Tutorials
 
@@ -242,6 +244,11 @@ Thanks to Robert Scoble for his valuable contribution. Here are the lists of VR/
 
 - **Companies in XR**:
   - [Companies List](https://x.com/i/lists/733277650085511168)
+
+## Other Awesome XR Lists
+
+- [Awesome visionOS](https://github.com/tomkrikorian/awesome-visionOS)
+- [Awesome Meta Spatial SDK](https://github.com/tomkrikorian/awesome-meta-spatial-sdk)
 
 ## Contribute
 
