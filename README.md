@@ -109,6 +109,7 @@
 - **Synty Studios** - [Provider of stylized assets for Unity](https://syntystore.com/).
 - **Niantic Lightship** - [AR development platform by Niantic](https://lightship.dev/).
 - **LOVR** - [Lua Virtual Reality Framework](https://github.com/bjornbytes/lovr)
+- **Reality Accelerator Toolkit** - [Collection of tools and samples for building high-quality MR experiences](https://github.com/meta-quest/reality-accelerator-toolkit).
 - **AR Foundation** - [Unity framework for AR development](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.2/manual/index.html).
 - **XR Hands** - [Hand tracking tools for XR applications](https://docs.unity3d.com/Packages/com.unity.xr.hands@0.2/manual/index.html).
 - **Meta XR interaction SDK OVR Samples** - [Sample projects for Meta XR](https://developer.oculus.com/resources/sample-apps-unity/).
