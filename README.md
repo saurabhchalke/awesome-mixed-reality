@@ -172,6 +172,7 @@
 - **Logitech MX Ink pen** - [MR Stylus](https://www.logitech.com/en-us/products/vr/mx-ink.html).
 - **Zapbox** - [iPhone as a MR headset device](https://www.zappar.com/zapbox/)
 - **XREAL One** - [AR Glasses Equipped With a Self-Developed Spatial Computing Chip](https://us.shop.xreal.com/products/xreal-one)
+- **Snapchat Spectacles** - [AR glasses powered by Snap OS](https://www.spectacles.com/)
 
 ## Books
 
