@@ -61,6 +61,7 @@
 - **Spark AR Studio** - [Tool for creating augmented reality experiences](https://sparkar.facebook.com/ar-studio/).
 - [Meta tools](https://developer.oculus.com/downloads/unity/) - A suite of tools provided by Meta for XR development.
 - [Lens Studio - Developing AR apps on Snap platform](https://ar.snap.com/lens-studio)
+- [Unity XR Device Simulator](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.0/manual/xr-device-simulator.html)
 
 ## Debugging
 
