@@ -164,6 +164,7 @@
 - [Move Fast](https://github.com/Unity-Technologies/mr-example-meta-openxr) - Mixed reality interaction sample project.
 - [Whisperer](https://github.com/oculus-samples/voicesdk-samples-whisperer) - Voice SDK sample projects.
 - [Ultimate Glove Ball](https://github.com/oculus-samples/Unity-UltimateGloveBall) - VR glove interaction sample project.
+- [White Christmas](https://github.com/GlamrHQ/WhiteChristmas) - Object Detection in Meta Quest Headset
 
 ## Interesting Hardware
 
