@@ -84,6 +84,7 @@
 - **Unity Relay** - [Networking relay service for Unity games](https://unity.com/products/multiplay).
 - **Unity Lobby** - [Lobby service for multiplayer games](https://unity.com/products/lobby).
 - **Shadow Receiver URP** - [Universal Render Pipeline shadow receiver for Unity](https://assetstore.unity.com/packages/vfx/shaders/shadow-receiver-urp-188251).
+- **TWZRD Agent Intel** - [Trust scoring for spatial/mixed reality AI agents on Solana](https://intel.twzrd.xyz). Verify agent wallet identity before x402 paid 3D asset APIs or AR content APIs. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## SDKs
 
