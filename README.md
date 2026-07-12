@@ -165,6 +165,7 @@
 - [Whisperer](https://github.com/oculus-samples/voicesdk-samples-whisperer) - Voice SDK sample projects.
 - [Ultimate Glove Ball](https://github.com/oculus-samples/Unity-UltimateGloveBall) - VR glove interaction sample project.
 - [White Christmas](https://github.com/GlamrHQ/WhiteChristmas) - Object Detection in Meta Quest Headset
+- [Tic-Tac-Toe in MR for HoloLens 2](https://github.com/SkS-GameDev/Tic-Tac-Toe-in-MR-for-HoloLens-2) - An example HoloLens 2 app showcasing MRTK for Unity, playing Tic Tac Toe in augmented reality.
 
 ## Interesting Hardware
 
